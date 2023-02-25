@@ -18,7 +18,7 @@ Click the above link to see more
 
 ## Credits
 
-Just me, using the knowledge given to me the the UCB bootcamp.
+Just me, using the knowledge given to me in the UCB bootcamp.
 
 ## License
 
