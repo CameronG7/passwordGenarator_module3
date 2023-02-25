@@ -1,9 +1,7 @@
 # passwoodGenerator_module3
 
 ## Description
-This project contains the second homework which is to create my own portfolio page using HTML and CSS. In this homework I, from scratch, using code provided in class and 
-code from documentation, created a portfolio page displaying my projects and info about myself. The page needed to meet several criteria, most importantly the page needed to be responsive 
-meaning the page should look acceptable in a desktop and mobile format
+This project contains the third homework which is to create a password generator. In this homework I, using code provided, created a password generator that prompts the user for password requirements and generates a random password based on those criteria. The password is then injected into the html and displayed so that the password can be copied by the user. 
 
 ## Installation
 
