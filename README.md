@@ -13,7 +13,8 @@ No installation necessary, just click the link below!
 
 ## Usage
 
-![image](../Assets/03-javascript-homework-demo.png)
+![03-javascript-homework-demo](https://user-images.githubusercontent.com/122698132/221371494-1e2c72e6-1d0d-412d-88b1-0bddfc7ea374.png)
+
 
 Click the above link to see more
 
